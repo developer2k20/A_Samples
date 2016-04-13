@@ -1,0 +1,6 @@
+c:\users\administrator\documents\visual studio 2012\Projects\DemoInterfaces\DemoInterfaces\bin\Debug\DemoInterfaces.exe.config
+c:\users\administrator\documents\visual studio 2012\Projects\DemoInterfaces\DemoInterfaces\bin\Debug\DemoInterfaces.exe
+c:\users\administrator\documents\visual studio 2012\Projects\DemoInterfaces\DemoInterfaces\bin\Debug\DemoInterfaces.pdb
+c:\users\administrator\documents\visual studio 2012\Projects\DemoInterfaces\DemoInterfaces\obj\Debug\DemoInterfaces.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2012\Projects\DemoInterfaces\DemoInterfaces\obj\Debug\DemoInterfaces.exe
+c:\users\administrator\documents\visual studio 2012\Projects\DemoInterfaces\DemoInterfaces\obj\Debug\DemoInterfaces.pdb

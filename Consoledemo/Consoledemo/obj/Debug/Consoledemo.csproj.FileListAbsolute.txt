@@ -1,0 +1,8 @@
+c:\users\administrator\documents\visual studio 2012\Projects\Consoledemo\Consoledemo\bin\Debug\Consoledemo.exe.config
+c:\users\administrator\documents\visual studio 2012\Projects\Consoledemo\Consoledemo\bin\Debug\Consoledemo.exe
+c:\users\administrator\documents\visual studio 2012\Projects\Consoledemo\Consoledemo\bin\Debug\Consoledemo.pdb
+c:\users\administrator\documents\visual studio 2012\Projects\Consoledemo\Consoledemo\obj\Debug\Consoledemo.exe
+c:\users\administrator\documents\visual studio 2012\Projects\Consoledemo\Consoledemo\obj\Debug\Consoledemo.pdb
+c:\users\administrator\documents\visual studio 2012\Projects\Consoledemo\Consoledemo\bin\Debug\Consoledemo.exe.CodeAnalysisLog.xml
+c:\users\administrator\documents\visual studio 2012\Projects\Consoledemo\Consoledemo\bin\Debug\Consoledemo.exe.lastcodeanalysissucceeded
+c:\users\administrator\documents\visual studio 2012\Projects\Consoledemo\Consoledemo\obj\Debug\Consoledemo.csprojResolveAssemblyReference.cache

@@ -1,0 +1,4 @@
+c:\users\administrator\documents\visual studio 2010\Projects\AngularJSSamples\AngularJSSamples\bin\AngularJSSamples.dll
+c:\users\administrator\documents\visual studio 2010\Projects\AngularJSSamples\AngularJSSamples\bin\AngularJSSamples.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\AngularJSSamples\AngularJSSamples\obj\Debug\AngularJSSamples.dll
+c:\users\administrator\documents\visual studio 2010\Projects\AngularJSSamples\AngularJSSamples\obj\Debug\AngularJSSamples.pdb

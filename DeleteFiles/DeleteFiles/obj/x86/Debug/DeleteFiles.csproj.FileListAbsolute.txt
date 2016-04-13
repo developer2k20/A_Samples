@@ -1,0 +1,5 @@
+c:\users\administrator\documents\visual studio 2010\Projects\DeleteFiles\DeleteFiles\bin\Debug\DeleteFiles.exe
+c:\users\administrator\documents\visual studio 2010\Projects\DeleteFiles\DeleteFiles\bin\Debug\DeleteFiles.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\DeleteFiles\DeleteFiles\obj\x86\Debug\DeleteFiles.exe
+c:\users\administrator\documents\visual studio 2010\Projects\DeleteFiles\DeleteFiles\obj\x86\Debug\DeleteFiles.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\DeleteFiles\DeleteFiles\obj\x86\Debug\DeleteFiles.csprojResolveAssemblyReference.cache
